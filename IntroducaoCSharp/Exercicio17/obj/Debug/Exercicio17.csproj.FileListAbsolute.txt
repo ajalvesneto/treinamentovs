@@ -1,0 +1,7 @@
+C:\Users\treinamento\source\repos\IntroducaoCSharp\Exercicio17\bin\Debug\Exercicio17.exe.config
+C:\Users\treinamento\source\repos\IntroducaoCSharp\Exercicio17\bin\Debug\Exercicio17.exe
+C:\Users\treinamento\source\repos\IntroducaoCSharp\Exercicio17\bin\Debug\Exercicio17.pdb
+C:\Users\treinamento\source\repos\IntroducaoCSharp\Exercicio17\obj\Debug\Exercicio17.csproj.CoreCompileInputs.cache
+C:\Users\treinamento\source\repos\IntroducaoCSharp\Exercicio17\obj\Debug\Exercicio17.exe
+C:\Users\treinamento\source\repos\IntroducaoCSharp\Exercicio17\obj\Debug\Exercicio17.pdb
+C:\Users\treinamento\source\repos\IntroducaoCSharp\Exercicio17\obj\Debug\Exercicio17.csprojAssemblyReference.cache

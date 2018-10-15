@@ -1,0 +1,7 @@
+C:\Users\treinamento\source\repos\IntroducaoCSharp\Exercicio18\bin\Debug\Exercicio18.exe.config
+C:\Users\treinamento\source\repos\IntroducaoCSharp\Exercicio18\bin\Debug\Exercicio18.exe
+C:\Users\treinamento\source\repos\IntroducaoCSharp\Exercicio18\bin\Debug\Exercicio18.pdb
+C:\Users\treinamento\source\repos\IntroducaoCSharp\Exercicio18\obj\Debug\Exercicio18.csprojAssemblyReference.cache
+C:\Users\treinamento\source\repos\IntroducaoCSharp\Exercicio18\obj\Debug\Exercicio18.csproj.CoreCompileInputs.cache
+C:\Users\treinamento\source\repos\IntroducaoCSharp\Exercicio18\obj\Debug\Exercicio18.exe
+C:\Users\treinamento\source\repos\IntroducaoCSharp\Exercicio18\obj\Debug\Exercicio18.pdb

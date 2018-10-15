@@ -1,0 +1,6 @@
+C:\Users\treinamento\source\repos\IntroducaoCSharp\Exercicio5\obj\Debug\Exercicio5.csproj.CoreCompileInputs.cache
+C:\Users\treinamento\source\repos\IntroducaoCSharp\Exercicio5\bin\Debug\Exercicio5.exe.config
+C:\Users\treinamento\source\repos\IntroducaoCSharp\Exercicio5\bin\Debug\Exercicio5.exe
+C:\Users\treinamento\source\repos\IntroducaoCSharp\Exercicio5\bin\Debug\Exercicio5.pdb
+C:\Users\treinamento\source\repos\IntroducaoCSharp\Exercicio5\obj\Debug\Exercicio5.exe
+C:\Users\treinamento\source\repos\IntroducaoCSharp\Exercicio5\obj\Debug\Exercicio5.pdb

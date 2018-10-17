@@ -123,7 +123,6 @@ C:\Users\treinamento\source\repos\MyFirstAppMVC\MyFirstAppMVC\bin\pt-br\System.W
 C:\Users\treinamento\source\repos\MyFirstAppMVC\MyFirstAppMVC\bin\pt-br\Microsoft.AspNet.Identity.Core.resources.dll
 C:\Users\treinamento\source\repos\MyFirstAppMVC\MyFirstAppMVC\bin\pt-br\Microsoft.AspNet.Identity.Owin.resources.dll
 C:\Users\treinamento\source\repos\MyFirstAppMVC\MyFirstAppMVC\bin\pt-br\Microsoft.AspNet.Identity.EntityFramework.resources.dll
-C:\Users\treinamento\source\repos\MyFirstAppMVC\MyFirstAppMVC\obj\Debug\MyFirstAppMVC.csprojAssemblyReference.cache
 C:\Users\treinamento\source\repos\MyFirstAppMVC\MyFirstAppMVC\obj\Debug\MyFirstAppMVC.csproj.CoreCompileInputs.cache
 C:\Users\treinamento\source\repos\MyFirstAppMVC\MyFirstAppMVC\obj\Debug\MyFirstAppMVC.csproj.CopyComplete
 C:\Users\treinamento\source\repos\MyFirstAppMVC\MyFirstAppMVC\obj\Debug\MyFirstAppMVC.dll

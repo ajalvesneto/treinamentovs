@@ -15,5 +15,6 @@ namespace MyFirstAppMVC.Models
         public Usuario Usuario { get; set; }
         public int UsuarioId { get; set; }
         public ICollection<Tarefa> Tarefas { get; set; }
+        public DateTime? Prazo { get; set; }
     }
 }

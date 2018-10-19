@@ -1,0 +1,15 @@
+C:\Lab\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\bin\Debug\SEFAZ.CursoMVC.Infra.Data.dll.config
+C:\Lab\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\bin\Debug\SEFAZ.CursoMVC.Infra.Data.dll
+C:\Lab\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\bin\Debug\SEFAZ.CursoMVC.Infra.Data.pdb
+C:\Lab\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Lab\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Lab\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\bin\Debug\SEFAZ.CursoMVC.Domain.dll
+C:\Lab\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\bin\Debug\SEFAZ.CursoMVC.Domain.pdb
+C:\Lab\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\bin\Debug\SEFAZ.CursoMVC.Domain.dll.config
+C:\Lab\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Lab\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Lab\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\obj\Debug\SEFAZ.CursoMVC.Infra.Data.csprojAssemblyReference.cache
+C:\Lab\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\obj\Debug\SEFAZ.CursoMVC.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Lab\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\obj\Debug\SEFAZ.CursoMVC.Infra.Data.csproj.CopyComplete
+C:\Lab\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\obj\Debug\SEFAZ.CursoMVC.Infra.Data.dll
+C:\Lab\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\obj\Debug\SEFAZ.CursoMVC.Infra.Data.pdb

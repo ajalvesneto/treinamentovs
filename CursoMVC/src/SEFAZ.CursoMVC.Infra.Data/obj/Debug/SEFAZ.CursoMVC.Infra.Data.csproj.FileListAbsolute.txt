@@ -13,3 +13,7 @@ C:\Lab\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\obj\Debug\SEFAZ.CursoMVC.Infra.Dat
 C:\Lab\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\obj\Debug\SEFAZ.CursoMVC.Infra.Data.csproj.CopyComplete
 C:\Lab\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\obj\Debug\SEFAZ.CursoMVC.Infra.Data.dll
 C:\Lab\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\obj\Debug\SEFAZ.CursoMVC.Infra.Data.pdb
+C:\Users\treinamento\source\repos\ajalvesneto\treinamentovs\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\obj\Debug\SEFAZ.CursoMVC.Infra.Data.csprojAssemblyReference.cache
+C:\Users\treinamento\source\repos\ajalvesneto\treinamentovs\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\obj\Debug\SEFAZ.CursoMVC.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\treinamento\source\repos\ajalvesneto\treinamentovs\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\obj\Debug\SEFAZ.CursoMVC.Infra.Data.dll
+C:\Users\treinamento\source\repos\ajalvesneto\treinamentovs\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\obj\Debug\SEFAZ.CursoMVC.Infra.Data.pdb

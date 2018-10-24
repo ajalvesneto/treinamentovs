@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SEFAZ.CursoMVC.Application.AutoMapper
 {
-    class AutoMapperConfig
+    public class AutoMapperConfig
     {
 
         public static void RegisterMapping() {

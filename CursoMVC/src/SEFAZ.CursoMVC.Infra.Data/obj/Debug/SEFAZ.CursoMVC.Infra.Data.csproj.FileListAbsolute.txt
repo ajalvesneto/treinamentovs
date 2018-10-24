@@ -15,5 +15,16 @@ C:\Lab\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\obj\Debug\SEFAZ.CursoMVC.Infra.Dat
 C:\Lab\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\obj\Debug\SEFAZ.CursoMVC.Infra.Data.pdb
 C:\Users\treinamento\source\repos\ajalvesneto\treinamentovs\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\obj\Debug\SEFAZ.CursoMVC.Infra.Data.csprojAssemblyReference.cache
 C:\Users\treinamento\source\repos\ajalvesneto\treinamentovs\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\obj\Debug\SEFAZ.CursoMVC.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\treinamento\source\repos\ajalvesneto\treinamentovs\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\bin\Debug\SEFAZ.CursoMVC.Infra.Data.dll.config
+C:\Users\treinamento\source\repos\ajalvesneto\treinamentovs\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\bin\Debug\SEFAZ.CursoMVC.Infra.Data.dll
+C:\Users\treinamento\source\repos\ajalvesneto\treinamentovs\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\bin\Debug\SEFAZ.CursoMVC.Infra.Data.pdb
+C:\Users\treinamento\source\repos\ajalvesneto\treinamentovs\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\treinamento\source\repos\ajalvesneto\treinamentovs\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\treinamento\source\repos\ajalvesneto\treinamentovs\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\bin\Debug\SEFAZ.CursoMVC.Domain.dll
+C:\Users\treinamento\source\repos\ajalvesneto\treinamentovs\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\bin\Debug\SEFAZ.CursoMVC.Domain.pdb
+C:\Users\treinamento\source\repos\ajalvesneto\treinamentovs\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\bin\Debug\SEFAZ.CursoMVC.Domain.dll.config
+C:\Users\treinamento\source\repos\ajalvesneto\treinamentovs\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\treinamento\source\repos\ajalvesneto\treinamentovs\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\treinamento\source\repos\ajalvesneto\treinamentovs\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\obj\Debug\SEFAZ.CursoMVC.Infra.Data.csproj.CopyComplete
 C:\Users\treinamento\source\repos\ajalvesneto\treinamentovs\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\obj\Debug\SEFAZ.CursoMVC.Infra.Data.dll
 C:\Users\treinamento\source\repos\ajalvesneto\treinamentovs\CursoMVC\src\SEFAZ.CursoMVC.Infra.Data\obj\Debug\SEFAZ.CursoMVC.Infra.Data.pdb

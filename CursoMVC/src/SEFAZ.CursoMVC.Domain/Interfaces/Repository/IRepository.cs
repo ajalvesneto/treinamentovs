@@ -13,7 +13,7 @@ namespace SEFAZ.CursoMVC.Domain.Interfaces.Repository
         TEntity Atualizar(TEntity obj);
         TEntity ObterporId(Guid guid);
         IEnumerable<TEntity> ObterTodos();
-        void Remover(Guid obj);
+        void Remover(Guid guid);
         IEnumerable<TEntity> Buscar(Expression<Func<TEntity, bool>> predicate);
 
         int SaveChanges();

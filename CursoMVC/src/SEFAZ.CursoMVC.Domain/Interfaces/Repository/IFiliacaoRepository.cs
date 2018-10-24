@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SEFAZ.CursoMVC.Domain.Interfaces.Repository
 {
-    interface IFiliacaoRepository : IRepository<Cliente>
+   public interface IFiliacaoRepository : IRepository<Cliente>
     {
         Cliente ObterPorCPF(string cpf);
         Cliente ObterPorNome(string nome);

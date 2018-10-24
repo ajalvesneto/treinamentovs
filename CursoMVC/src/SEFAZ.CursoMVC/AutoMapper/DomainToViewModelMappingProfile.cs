@@ -11,14 +11,14 @@ namespace SEFAZ.CursoMVC.Application.AutoMapper
 {
     class DomainToViewModelMappingProfile : Profile
     {
-        protected override void Configure()
+        public DomainToViewModelMappingProfile()
         {
 
-            CreateMap<Cliente, ClienteViewModel>()
+           /* CreateMap<Cliente, ClienteViewModel>()
                 .ForMember(dest => dest.Cpf,
                             opt => opt.MapFrom(src => src.Cpf))
                 .ForMember(dest => dest.Email,
-                            opt => opt.MapFrom(src => src.Email));
+                            opt => opt.MapFrom(src => src.Email));*/
 
 
             CreateMap<Cliente, ClienteEnderecoViewModel>();

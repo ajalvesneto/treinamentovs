@@ -49,14 +49,14 @@ namespace SEFAZ.CursoMVC.Infra.Data.Repository
             return DbSet.Find(guid);
         }
 
-        public IEnumerable<TEntity> ObterTodos(List<TEntity> obj)
+        public IEnumerable<TEntity> ObterTodos()
         {
             return DbSet.ToList();
         }
 
-        public void Remover(TEntity obj)
+        public void Remover(Guid id)
         {
-            DbSet.Remove(obj);
+            DbSet.Remove(DbSet.Find(id));
         }
 
         public int SaveChanges()

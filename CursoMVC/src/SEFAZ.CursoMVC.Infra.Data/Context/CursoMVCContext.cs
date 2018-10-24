@@ -12,8 +12,7 @@ namespace SEFAZ.CursoMVC.Infra.Data.Context
 {
     public class CursoMVCContext : DbContext
     {
-        public CursoMVCContext() {
-
+        public CursoMVCContext(): base("DefaulConnection") { 
         }
 
         public DbSet<Cliente> Clientes { get; set; }

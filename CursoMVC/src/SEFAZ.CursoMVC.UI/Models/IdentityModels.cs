@@ -29,5 +29,7 @@ namespace SEFAZ.CursoMVC.UI.Models
         {
             return new ApplicationDbContext();
         }
+
+        //public System.Data.Entity.DbSet<SEFAZ.CursoMVC.Application.ViewModels.ClienteViewModel> ClienteViewModels { get; set; }
     }
 }

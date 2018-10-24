@@ -11,29 +11,32 @@ namespace SEFAZ.CursoMVC.Application.AutoMapper
 {
     public class ViewModelToDomainMappingProfile : Profile
     {
-        protected override Configure() {
-                CreateMap<ClienteViewModel, Cliente>()
+
+        
+            public ViewModelToDomainMappingProfile() {
+               /* CreateMap<ClienteViewModel, Cliente>()
                     .ForMember(dest => dest.Email, 
                     opt => opt.ResolveUsing(
                         model => new Email() {
                             Endereco = model.Email
                             }
                         )
-                    );
+                    );*/
 
             CreateMap<ClienteEnderecoViewModel, Cliente>();
             CreateMap<ClienteViewModel, Cliente>();
             CreateMap<ClienteEnderecoViewModel, Endereco>();
+            
         }
 
-        private class Email
+        /*private class Email
         {
             public Email()
             {
             }
 
             public string Endereco { get; set; }
-        }
+        }*/
     }
 }
 

@@ -12,9 +12,13 @@ using System.Threading.Tasks;
 
 namespace SEFAZ.CursoMVC.Domain.Services
 {
-    public class FiliacaoService : IFiliacaoServices
+    public class FiliacaoService : IFiliacaoService
     {
         private readonly IFiliacaoRepository _filiacaoRepository;
+
+        public FiliacaoService(IFiliacaoRepository filiacaoRepository) {
+            _filiacaoRepository = filiacaoRepository;
+        }
 
         public Cliente Adicionar(Cliente cliente)
         {
@@ -25,8 +29,6 @@ namespace SEFAZ.CursoMVC.Domain.Services
         {
             return _filiacaoRepository.Atualizar(cliente);
         }
-
-    
 
         public Cliente ObterPorCPF(string cpf)
         {
@@ -54,7 +56,8 @@ namespace SEFAZ.CursoMVC.Domain.Services
 
         public void Dispose()
         {
-
+            _filiacaoRepository.Dispose();
+            GC.SuppressFinalize(this);
         }
     }
 }

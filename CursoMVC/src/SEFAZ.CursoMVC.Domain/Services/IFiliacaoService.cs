@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SEFAZ.CursoMVC.Domain.Services
 {
-    public interface IFiliacaoServices : IDisposable
+    public interface IFiliacaoService : IDisposable
     {
         Cliente Adicionar(Cliente cliente);
 
